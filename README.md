@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/batalova/image/upload/v1642328413/banner_2_uk2v26.png)](https://github.com/batalova90)
+[![MasterHead](https://res.cloudinary.com/batalova/image/upload/v1642329050/banner_4_fmbhub.png)](https://github.com/batalova90)
 
 
 ![Batalova's GitHub stats](https://github-readme-stats.vercel.app/api?username=batalova90&theme=cobalt&show_icons=true)
