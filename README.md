@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="batalova.av@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/gmail.png" alt="" height="30" width="40" /></a>
-<a href="https://t.me/batalova91" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" alt="" height="30" width="40" /></a>
+<a href="https://batalova.av@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/gmail.png" alt="" height="30" width="40" /></a>
+<a href="https://t.me/batalova91" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" alt="" height="40" width="40" /></a>
 </p>
 <br>
 
