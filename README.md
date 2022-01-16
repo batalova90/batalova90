@@ -11,5 +11,5 @@
 </p>
 <br>
 
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="c++" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/qt.png" alt="qt" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://img.icons8.com/wired/64/000000/python.png" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/django.png" alt="django" width="40" height="40"/> </a> <a href=" target="_blank"> <img src="https://img.icons8.com/wired/64/000000/docker.png" alt="docker" width="40" height="40"/> </a>
