@@ -4,7 +4,7 @@
 **batalova90/batalova90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Batalova's GitHub stats](https://github-readme-stats.vercel.app/api?username=batalova.90&theme=dark&show_icons=true)
+![Batalova's GitHub stats](https://github-readme-stats.vercel.app/api?username=batalova90&theme=dark&show_icons=true)
 
 
 - 🔭 I’m currently working on ...
