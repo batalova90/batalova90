@@ -1,4 +1,3 @@
-[![MasterHead](https://res.cloudinary.com/batalova/image/upload/v1642331662/banner_2_rv9urg.png)](https://github.com/batalova90)
 
 
 ![Batalova's GitHub stats](https://github-readme-stats.vercel.app/api?username=batalova90&theme=buefy&show_icons=true)
