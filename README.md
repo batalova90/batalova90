@@ -1,5 +1,3 @@
-
-
 ![Batalova's GitHub stats](https://github-readme-stats.vercel.app/api?username=batalova90&theme=buefy&show_icons=true)
 <br>
 
